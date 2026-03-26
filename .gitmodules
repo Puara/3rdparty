@@ -1,3 +1,6 @@
 [submodule "IMU_Sensor_Fusion"]
 	path = IMU_Sensor_Fusion
 	url = https://github.com/malloch/IMU_Sensor_Fusion.git
+[submodule "eigen"]
+	path = eigen
+	url = https://github.com/PX4/eigen
