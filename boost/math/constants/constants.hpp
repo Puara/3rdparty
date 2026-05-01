@@ -125,7 +125,7 @@ namespace boost{ namespace math
          {
             initializer()
             {
-               F();
+               (F)();
             }
             void force_instantiate()const{}
          };
